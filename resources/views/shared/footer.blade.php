@@ -9,12 +9,12 @@
                         <h4>About us </h4>
                         <div class="footer-title-line"></div>
 
-                        <img src="assets/img/footer-logo.png" alt="" class="wow pulse" data-wow-delay="1s">
-                        <p>Lorem ipsum dolor cum necessitatibus su quisquam molestias. Vel unde, blanditiis.</p>
+                        <img src="assets/img/ngerplogo-footer.png" alt="" class="wow pulse" data-wow-delay="1s">
+                        <p>Your Dream, Our Mission: Realize Homeownership Today!</p>
                         <ul class="footer-adress">
-                            <li><i class="pe-7s-map-marker strong"> </i> 9089 your adress her</li>
-                            <li><i class="pe-7s-mail strong"> </i> email@yourcompany.com</li>
-                            <li><i class="pe-7s-call strong"> </i> +1 908 967 5906</li>
+                            <li><i class="pe-7s-map-marker strong"> </i> B-204/205, WESTGATE, S.G.HIGHWAY.</li>
+                            <li><i class="pe-7s-mail strong"> </i>info@nexusgroup.com</li>
+                            <li><i class="pe-7s-call strong"> </i> +916352478028</li>
                         </ul>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                     <div class="single-footer news-letter">
                         <h4>Stay in touch</h4>
                         <div class="footer-title-line"></div>
-                        <p>Lorem ipsum dolor sit amet, nulla  suscipit similique quisquam molestias. Vel unde, blanditiis.</p>
+                        <p>Building Futures, One Brick at a Time: Your Key to Real Estate Success.</p>
 
 
                         <div class="social pull-right">

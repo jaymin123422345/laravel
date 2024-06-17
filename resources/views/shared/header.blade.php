@@ -4,8 +4,8 @@
             <div class="col-md-5 col-sm-8  col-xs-12">
                 <div class="header-half header-call">
                     <p>
-                        <span><i class="pe-7s-call"></i> +1 234 567 7890</span>
-                        <span><i class="pe-7s-mail"></i> garoestate043@gmail.com</span>
+                        <span><i class="pe-7s-call"></i> +91 63524 78028</span>
+                        <span><i class="pe-7s-mail"></i> info@nexusgroup.com</span>
                     </p>
                 </div>
             </div>
@@ -36,7 +36,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ route('home') }}"><img src="{{ asset('assets/img/logo.png') }}" alt=""></a>
+            <a class="navbar-brand" style="padding: 0px !important" href="{{ route('home') }}"><img src="{{ asset('assets/img/ngerplogo.png') }}" alt=""></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

@@ -14,7 +14,7 @@
 				<div class="col-md-6 col-lg-5">
 					<div class="login-box bg-white box-shadow border-radius-10">
 						<div class="login-title">
-							<h2 class="text-center text-primary">Login To {{ config('app.name', 'Garo_estate') }}</h2>
+							<h2 class="text-center text-primary">Login To {{ config('app.name', 'NexusGroup') }}</h2>
 						</div>
 						<form method="POST" action="{{ route('admin.post.login') }}">
                             @csrf

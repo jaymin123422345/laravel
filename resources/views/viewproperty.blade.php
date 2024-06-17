@@ -179,7 +179,7 @@
                                 {{-- <div class="clear">
                                     <ul class="dealer-contacts">
                                         <li><i class="pe-7s-map-marker strong"> </i> 9089 your adress her</li>
-                                        <li><i class="pe-7s-mail strong"> </i> email@yourcompany.com</li>
+                                        <li><i class="pe-7s-mail strong"> </i> info@nexusgroup.com</li>
                                         <li><i class="pe-7s-call strong"> </i> +1 908 967 5906</li>
                                     </ul>
                                     <p>Duis mollis  blandit tempus porttitor curabiturDuis mollis  blandit tempus porttitor curabitur , est non…</p>

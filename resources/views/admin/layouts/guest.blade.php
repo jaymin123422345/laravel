@@ -21,7 +21,7 @@
             <div class="container-fluid d-flex justify-content-between align-items-center">
                 <div class="brand-logo">
                     <a href={!! route('admin.dashboard') !!}>
-                        <img src="{!! asset('images/logo.png') !!}" alt="">
+                        <img src="{!! asset('assets/img/ngerplogoadmin.png') !!}" alt="">
                     </a>
                 </div>
             </div>

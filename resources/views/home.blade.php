@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
                 <h2>property Searching Just Got So Easy</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi deserunt deleniti, ullam commodi sit ipsam laboriosam velit adipisci quibusdam aliquam teneturo!</p>
+                <p>From Listings to Lifelong Memories: Welcome to Your Real Estate Oasis.Navigating Real Estate Waters, Guiding You to Your Perfect Harbor.Empowering Your Property Dreams: Let's Make Real Estate Magic Happen Together!</p>
 
             </div>
         </div>
@@ -159,7 +159,7 @@
                         <div class="row">
                             <div class="col-md-10 col-md-offset-1 col-sm-12 text-center page-title">
                                 <!-- /.feature title -->
-                                <h2>GARO ESTATE </h2>
+                                <h2>Nexus Group</h2>
                             </div>
                         </div>
                     </div>
@@ -292,7 +292,7 @@
                     </div>
                     <div class="asks-first-info">
                         <h2>ARE YOU LOOKING FOR A Property?</h2>
-                        <p> varius od lio eget conseq uat blandit, lorem auglue comm lodo nisl no us nibh mas lsa</p>
+                        <p>Turning Houses into Homes, Hearts into Communities: Join Us in Real Estate Bliss.</p>
                     </div>
                     <div class="asks-first-arrow">
                         <a href="#"><span class="fa fa-angle-right"></span></a>
@@ -306,7 +306,7 @@
                     </div>
                     <div class="asks-first-info">
                         <h2>DO YOU WANT TO SELL A Property?</h2>
-                        <p> varius od lio eget conseq uat blandit, lorem auglue comm lodo nisl no us nibh mas lsa</p>
+                        <p>Turning Houses into Homes, Hearts into Communities: Join Us in Real Estate Bliss.</p>
                     </div>
                     <div class="asks-first-arrow">
                         <a href="#"><span class="fa fa-angle-right"></span></a>
